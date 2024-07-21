@@ -9,6 +9,10 @@
 ## Quick Start
 
 ```bash
+% git clone git@github.com:mi2valley/qiskit-starter-kit.git
+% cd qiskit-starter-kit
+% git fetch origin qiskit-serverless
+% git checkout -b qiskit-serverless origin/qiskit-serverless
 % poetry install
 % docker compose up
 ```
