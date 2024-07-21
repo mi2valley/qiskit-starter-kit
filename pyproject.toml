@@ -2,7 +2,7 @@
 name = "qiskit-starter-kit"
 version = "0.1.0"
 description = ""
-authors = ["Yusuke-Mizutani <Yusuke.Mizutani10q@ibm.com>"]
+authors = ["Yusuke-Mizutani"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
@@ -12,6 +12,8 @@ jupyter = "^1.0.0"
 qiskit-ibm-runtime = "^0.23.0"
 python-dotenv = "^1.0.1"
 qiskit-ibm-provider = "^0.11.0"
+qiskit-serverless = "^0.12.0"
+qiskit-aer = "^0.14.2"
 
 
 [build-system]
